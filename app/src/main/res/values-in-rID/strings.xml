@@ -1,0 +1,14 @@
+<resources>
+    <string name="judul_film">Judul Film</string>
+    <string name="deskripsi_film">Deskripsi film</string>
+    <string name="app_name">Layar Tancep</string>
+    <string name="genre">genre film</string>
+    <string name="top_cast">Pemeran Utama</string>
+    <string name="Sinopsis">Sinopsis</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="film">Film</string>
+    <string name="tv_show">Acara Tv</string>
+    <string name="title_home">Halaman Utama</string>
+    <string name="Change_Setting">Ubah Bahasa</string>
+</resources>

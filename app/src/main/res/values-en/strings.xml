@@ -1,0 +1,14 @@
+<resources>
+    <string name="judul_film">Movie Title</string>
+    <string name="deskripsi_film">Movie Description</string>
+    <string name="app_name">Layar Tancep</string>
+    <string name="genre">Movie Genre</string>
+    <string name="top_cast">Top Cast</string>
+    <string name="Sinopsis">Sinopsys</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="film">Movie</string>
+    <string name="tv_show">TV Show</string>
+    <string name="title_home">Home</string>
+    <string name="Change_Setting">Change Language</string>
+</resources>
